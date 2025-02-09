@@ -4,7 +4,7 @@ Progetto Icon dell'anno 2024-2025.
 ## Presentazione
 Repository per l'esame di Ingegneria della Conoscenza, a.a. 24/25 - Università di Bari.
 
-La documentazione risiede nel file: ```doc/Documentazione.pdf```
+La documentazione risiede nel file: ```doc/Documentazione finale.pdf```
 
 Studente, Nacci Mario, 760455 - mail: m.nacci22@studenti.uniba.it
 
