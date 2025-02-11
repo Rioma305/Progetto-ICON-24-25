@@ -33,9 +33,3 @@ Per avviare il sistema utilizzare il comando:
   ```python main.py```
   
 dalla directory del file ```main.py```
-
-Analogalmente per vedere la regressione bisogna eseguire nella directory del file ```regression.py``` il comando:
-
-  ```python regression.py```
-
-separatamente ripesto al main per questioni di ottimizzazione delle tempistiche.
